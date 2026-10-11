@@ -14,11 +14,10 @@ This project analyzes public transport operations to understand passenger demand
 
 ## Tools Used
 - Tableau
-- Python (Pandas), if applicable
-- Excel or CSV
+- Python (colab)
+- CSV
 
 ## Key Findings
-Add 3–5 findings based on your actual dashboard results.
 
 - Highest-demand routes or stops: Route 18 shows highest boarding activity
 - Peak passenger time periods: Afternoon, utilization increases again and approximately around 16:00–17:00(about 29%) highest levels are observed.
