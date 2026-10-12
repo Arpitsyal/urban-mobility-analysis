@@ -36,6 +36,9 @@ This project explores public transport performance using bus passenger and vehic
 
 The dataset includes variables relating to routes, stops, time periods, boardings, alightings, vehicle load, and capacity.
 
+## Dashboard Preview
+
+![Urban Mobility Dashboard](dashboard.png)
 ## Interactive Dashboard
 
 [View the Urban Mobility and Public Transport Performance Dashboard on Tableau Public](https://public.tableau.com/views/Urban_Mobility_Public_Transport_Performance/UrbanMobilityandPublicTransportPerformance?:language=en-US&publish=yes)
